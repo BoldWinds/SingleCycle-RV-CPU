@@ -1,0 +1,11 @@
+`define I_ADD  9
+`define I_ADDW  1
+`define I_BEQ  2
+`define I_BNE  3
+`define I_BLT  4
+`define I_LW  5
+`define I_SW  6
+`define I_JAL  7
+`define I_ADDI  8
+`define I_ERR  5'd31
+`define I_NULL 0
